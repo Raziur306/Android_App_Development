@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="title_name">Welcome To Tic Tac Toe</string>
+    <string name="grid">Our Main Grid</string>
+    <string name="status">"X's turn Tap To Play"</string>
+    <string name="developed_by">Developed By Ronju</string>
+</resources>
